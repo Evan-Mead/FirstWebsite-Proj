@@ -1,8 +1,39 @@
-h1, h3, h5 {color: tomato;}
-h2, h4, h6 {color: goldenrod;}
-small {color: white;}
-p {color: white;}
-a {color: teal;}
-dl {background-color: darkolivegreen; color: salmon;}
-dd {display: block; margin-left: 20px;}
-button {font-size: 14px}
+ /* Headings */
+h1, h3, h5 {
+  color: tomato;
+}
+
+h2, h4, h6 {
+  color: goldenrod;
+}
+
+/* Small Tag */
+small {
+  color: white;
+}
+
+/* Paragraph */
+p {
+  color: white;
+}
+
+/* Anchor Tag */
+a {
+  color: teal;
+}
+
+/* Description List */
+dl {
+  background-color: darkolivegreen; color: salmon;
+}
+
+/* Description Element */
+dd {
+  display: block; margin-left: 20px;
+}
+
+/* Buttons */
+button {
+  font-size: 14px;
+}
+
